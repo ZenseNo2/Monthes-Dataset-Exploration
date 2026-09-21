@@ -1,0 +1,22 @@
+C_Account	app\Http\Controllers\AccountController.php	1
+C_Schedule	app\Http\Controllers\ScheduleController.php	1
+C_Proposal	app\Http\Controllers\ProposalController.php	1
+C_LectureCourse	app\Http\Controllers\RMKController.php	1
+C_Logbook	app\Http\Controllers\LogbookController.php	1
+C_Thesis	app\Http\Controllers\ThesisController.php	1
+C_Grades	app\Http\Controllers\GradesController.php	1
+C_Question	app\Http\Controllers\LectureSubjectController.php	1
+M_User	app\Models\User.php	1
+M_Proposal	app\Models\Proposal.php	1
+M_LectureCourse	app\Models\RMK.php	1
+M_Logbook	app\Models\Logbook.php	1
+M_Question	app\Models\Question.php	1
+M_Grades	app\Models\Grades.php	1
+V_Account	resources\views\account\add.blade.php	1
+V_Schedule	resources\views\schedule\index.blade.php	1
+V_Proposal	resources\views\proposal\index.blade.php	1
+V_Lecture Course	resources\views\rmk\add.blade.php	1
+V_Logbook	resources\views\logbook\index.blade.php	1
+V_Thesis	resources\views\thesis\index.blade.php	1
+V_Question	resources\views\question\index.blade.php	1
+-	resources\views\lecture\index.blade.php	0
